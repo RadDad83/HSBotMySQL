@@ -1,0 +1,22 @@
+{
+  "name": "hsbotmysql",
+  "version": "1.0.0",
+  "description": "high score bot updated to use mySQL and to properly use version control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RadDad83/HSBotMySQL.git"
+  },
+  "author": "Dave Radtke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RadDad83/HSBotMySQL/issues"
+  },
+  "homepage": "https://github.com/RadDad83/HSBotMySQL#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

@@ -5,6 +5,6 @@ var sequelize = new Sequelize('mainDB', null, null, {
     storage: './db/highscores.sqlite',
 });
 
-const League = sequlize.definte('league'){
+const League = sequlize.define('league',{
     id: { type: Sequelize.INTEGER, allowNull: false, }
-}
+});

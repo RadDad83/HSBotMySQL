@@ -2,7 +2,7 @@
   "name": "hsbotmysql",
   "version": "1.0.0",
   "description": "high score bot updated to use mySQL and to properly use version control",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
